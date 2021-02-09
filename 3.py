@@ -11,3 +11,4 @@ c = [1, 2, 3, 4]
 print(mul(a))
 print(mul(b))
 print(mul(c))
+print(mul(a) - 1)
