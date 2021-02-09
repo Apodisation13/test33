@@ -6,7 +6,7 @@ def div(iter):
 
 
 if __name__ == "__main__":
-    a = [4, 2]
+    a = [6, 3]
     b = (8, 2, 2)
     c = [30, 3, 5, 2, -1]
     for each in [a, b, c]:
