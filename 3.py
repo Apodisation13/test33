@@ -6,7 +6,7 @@ def mul(iter):
 
 
 a = [10, 3]
-b = (10, 3, 3)
+b = (2, 3, 2**2)
 c = [1, 2, 3, 4]
 print(mul(a))
 print(mul(b))
