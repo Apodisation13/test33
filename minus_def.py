@@ -4,8 +4,8 @@ def minus(iter):
         result -= iter[i]
     return result
 
-
-a = [10, 3]
-c = [10, 3, 4, 6]
-print(minus(a))
-print(minus(c))
+if __name__ == "__main__":
+    a = [10, 3]
+    c = [10, 3, 4, 6]
+    print(minus(a))
+    print(minus(c))
