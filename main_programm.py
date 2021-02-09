@@ -8,4 +8,4 @@ if __name__ == "__main__":
     print(summ(*(4, 5, -3)))
     print(minus([4, 5, -2]))
     print(mul(range(1, 5)))
-    print(div((36, 6, 3, -2, -1)))
+    print(div(*(36, 6, 3, -2, -1)))
