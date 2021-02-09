@@ -6,8 +6,6 @@ def minus(iter):
 
 
 a = [10, 3]
-b = (10, 3, 3)
 c = [10, 3, 4, 6]
 print(minus(a))
-print(minus(b))
 print(minus(c))
