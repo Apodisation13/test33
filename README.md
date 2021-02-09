@@ -14,4 +14,3 @@
   
   Импортирует все в функции из этих файлов и демонстрирует несколько примеров
   
-  <a href="https://ibb.co/0mKn5PZ"><img src="https://i.ibb.co/JmqcZX2/mmdc-11ex-01.jpg" alt="mmdc-11ex-01" border="0"></a>
